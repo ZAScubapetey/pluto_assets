@@ -3,7 +3,5 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/bezuide3/mindworx
     - /bin/cp -R assets $DEPLOYPATH
-    - /bin/cp -R docs $DEPLOYPATH
-    - /bin/cp -R examples $DEPLOYPATH
     - /bin/cp *.* $DEPLOYPATH
     
