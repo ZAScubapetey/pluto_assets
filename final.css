@@ -20555,12 +20555,12 @@ body {
   }
 }
 
-#custom_theme .parallax {
+#custom_theme .parallax1 {
   /* The image used */
-  background-image: url("https://images.unsplash.com/photo-1569683795645-b62e50fbf103?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=987&amp;q=80");
+  background-image: url("assets/img/IMAGE-1.png");
 
   /* Set a specific height */
-  min-height: 500px; 
+  min-height: 100vh; 
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
@@ -20568,3 +20568,49 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+#custom_theme .parallax2 {
+  /* The image used */
+  background-image: url("assets/img/IMAGE-2.png");
+
+  /* Set a specific height */
+  min-height: 100vh; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#custom_theme .parallax3 {
+  /* The image used */
+  background-image: url("assets/img/IMAGE-3.png");
+
+  /* Set a specific height */
+  min-height: 100vh; 
+
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#custom_theme .parallax4 {
+  /* The image used */
+  background-image: url("assets/img/IMAGE-4.png");
+
+  /* Set a specific height */
+  min-height: 100vh; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
